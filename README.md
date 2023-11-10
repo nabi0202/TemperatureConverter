@@ -1,2 +1,3 @@
-# temperature_converter_webpage
-using HTML CSS JavaScript
+a simple website using CSS, HTML,
+JAVASCRIPT to convert temperature form
+Celsius to Fahrenheit and etc.
